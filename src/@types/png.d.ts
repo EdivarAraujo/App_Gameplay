@@ -1,0 +1,1 @@
+declare module "*.png"; //definição de typagem, aceita todo aquivo terminado com png
